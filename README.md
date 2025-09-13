@@ -1,0 +1,1 @@
+Frontend: static HTML files. Replace backend URL placeholders with your Render backend URL. Deploy to GitHub Pages or Netlify.
